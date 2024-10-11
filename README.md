@@ -1,4 +1,3 @@
-İncelediğim proje bulanık mantık tabanlı bir sulama sistemi hakkında. Arduino ve MATLAB kullanılarak toprak sıcaklığı ve nemi gibi veriler kullanılarak sulama motorunun devri ve süresi kontrol ediliyor. Şimdi bu proje için profesyonel ve dikkat çekici bir **README.md** dosyası hazırlayalım:
 
 ---
 
