@@ -2,7 +2,7 @@ Fuzzy Logic-Based Irrigation System
 
 Overview
 
-  This project aims to estimate the speed and operating time of an irrigation pump motor for agricultural use by utilizing real-time air temperature and soil moisture data. The control system is developed using Arduino and MATLAB, applying fuzzy logic algorithms to ensure efficient irrigation.
+              This project aims to estimate the speed and operating time of an irrigation pump motor for agricultural use by utilizing real-time air temperature and soil moisture data. The control system is developed using Arduino and MATLAB, applying fuzzy logic algorithms to ensure efficient irrigation.
 
 Model Hardware
 
